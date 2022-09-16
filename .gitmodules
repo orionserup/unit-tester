@@ -1,0 +1,3 @@
+[submodule "components/sw_i2c"]
+	path = components/sw_i2c
+	url = https://github.com/orionserup/sw_i2c
